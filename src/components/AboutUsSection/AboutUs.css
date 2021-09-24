@@ -1,0 +1,57 @@
+h5 {
+  font-size: 50px;
+}
+
+span {
+  display: inline-block;
+  font-weight: bold;
+  font-size: 28px;
+  margin-top: 20px;
+}
+
+.opening-info {
+  width: 60%;
+  margin: 0 auto;
+}
+
+.opening-info p {
+  text-align: justify;
+  margin: 6px auto;
+  line-height: 1.5;
+  margin-bottom: 22px;
+}
+
+.info {
+  text-align: center;
+  width: 20%;
+}
+
+.info p {
+  text-align: center;
+  margin: 6px auto;
+  line-height: 1.5;
+}
+
+.about-us--container {
+  margin: 25px auto;
+  background: #fff;
+  color: #1b1442;
+  text-align: center;
+  width: 100%;
+  scroll-margin-top: 95px;
+}
+
+.about-us--row {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.team-container {
+  margin: 35px auto;
+}
+
+.team-row {
+  display: flex;
+  justify-content: space-evenly;
+}

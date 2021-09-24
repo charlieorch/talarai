@@ -1,0 +1,47 @@
+.card {
+  background-image: linear-gradient(140deg, transparent, #f5f5f5 68%),
+    url(https://talarai.com/gallery_gen/85f69e026423af36592e86fce2245c7d.jpg);
+  background-size: cover;
+  padding: 10px;
+  border-radius: 8px;
+  min-height: 200px;
+  width: 920px;
+  border: 3px solid #1b1442;
+  color: #101010;
+}
+
+.header {
+  margin-bottom: 18px;
+}
+
+.photo img {
+  border-radius: 50%;
+  width: 80%;
+  border: 3px solid #303030;
+  margin-left: -25px;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.content {
+  margin-top: -18px;
+}
+
+.column {
+  flex: 1;
+}
+
+.content,
+.content h3 {
+  text-align: left;
+}
+
+.content p {
+  font-size: 13px;
+  line-height: 1.3;
+}

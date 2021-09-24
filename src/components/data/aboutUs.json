@@ -1,0 +1,38 @@
+{
+  "mainDescription": "Talarai, LLC is a proudly Service Disabled Veteran and  Minority-owned business, and our experts are former US Military Veterans with Government, Defense, Small, and Large Federal contractor experience.  Our company is constantly evolving and growing. We provide a wide range of services. Our goal is to provide the best solution, for the best price, at the right time to service and exceed your needs. We are both your eyes in the sky and your boots on the ground. We will make sure you are flying into success. Our mission is your mission.",
+  "details": [
+    {
+      "id": 1,
+      "title": "Partner",
+      "body": "Our values are based on honesty, integrity, tenacity, and ethics. Let us be your partner of choice as we help you stategize, build, and optimize. Our goals are your goals. As a multi-divisional business with an expanded experience base we can answer your needs, when you need them with time to spare."
+    },
+    {
+      "id": 2,
+      "title": "Supplier",
+      "body": "Our company is a leading software supplier as a service, computer products, facility supply, and transportation needs to the Federal Governments, State, and various law enforcement agencies, federal civilian agencies, educational institutes, communication companies, and non-profit organizations."
+    },
+    {
+      "id": 3,
+      "title": "Advisor",
+      "body": "We are an 51% disabled veteran-owned business that provides complete business solutions. We are both your eyes in the sky and your boots on the ground. We will make sure you are flying into success. Our mission is your mission. Our over 40 years combined experience will guide you on the right path."
+    }
+  ],
+  "team-members": [
+    {
+      "id": 1,
+      "name": "Tucker Sulzberger",
+      "title": "Founding Partner & Majority Owner",
+      "description1": "Tucker Sulzberger is a Founding Partner and majority owner of Talarai, LLC.  His tenure as a United States Army Veteran with over ten years of proven leadership skills has contributed to this thriving business venture. He commanded a CH-47F helicopter company at the pinnacle of his Army career. He has an uncanny ability to develop highly adaptive and unified teams.",
+      "description2": "Tucker is a graduate of the University of Iowa, where he studied Kinesiology and adapted a highly regimented healthy lifestyle. While studying at the university, he was the captain of the division 1 rugby team and attended Reserve Officer Training Corps after completing basic infantry training. He was awarded Cadet of the year from the Iowa  National Guard and recognized as a distinguished military graduate for being in the top 20% in the country.",
+      "imageUrl": "https://talarai.com/gallery_gen/0d40a274c727b427efabfd48b37fd661.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Marvina Case",
+      "title": "Head of Global Operations & Co-Founder",
+      "description1": "Marvina Case attended Purdue University and has 24 years of proven technology sales performance management at the center of the digital commerce ecosystem in Federal, State, Local, Tribal and private sectors.  Marvina has sold in 43 countries and initiated and introduced product lines and organizations in 26 countries.   She is one of the founding members and the driving force behind the core logic that makes Talarai fly. You'll find her operating where technology overlaps with marketing, brand, business systems, and product innovation.",
+      "description2": "She has deep expertise in compassionate turnarounds, building sustainable business models, and driving high-performance teams across multiple global markets. She is best known for bridging gaps between Sales, Marketing, Finance, and C-Level Players. With companies like Dell, Dell Federal, Sage, SAP, LimeLight Networks, and Intel on her resume, she has the practiced and proven finger on the pulse of what was, is, and will be in technology.",
+      "imageUrl": "https://talarai.com/gallery_gen/ba023549c2b968d4a0b7c87d4d25d58c_724x724_-0x-0_724x1086.png"
+    }
+  ]
+}

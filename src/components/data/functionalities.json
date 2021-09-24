@@ -1,0 +1,34 @@
+{
+  "functionalities": [
+    {
+      "id": 1,
+      "title": "Telecommunications and Network Services",
+      "body": "We offer cost-effective telecommunications products and services, whether you're a local government or a large federal department or a school, call center, or small business. Choose from specialized services like satellite, or a total custom solution for your agency, call center or campus.",
+      "imageUrl": "https://talarai.com/gallery_gen/db1b09b9bc4d335bff29917b2b710425_580x580.png"
+    },
+    {
+      "id": 2,
+      "title": "IT Security",
+      "body": "Get customizable cybersecurity products and services to help you enhance your agency's security, improve resilience, protect the information, and bring your systems into the 21st century. We specialize in Security Solutions, Vulnerability Prevention, and Security Analysis.",
+      "imageUrl": "https://talarai.com/gallery_gen/f60c106a95fadff7cc5c7cf036f40d8e_436x572.png"
+    },
+    {
+      "id": 3,
+      "title": "IT Software and IT Services",
+      "body": "Our solutions include infrastructure software, enterprise application software, and licensing and maintenance. iSaaS, ERP, CRM, and much more. We have over 200 years combined IT experience and can find the best  consulting and outsourcing professionals for IT services needs.",
+      "imageUrl": "https://cdn3.iconfinder.com/data/icons/wpzoom-developer-icon-set/500/104-512.png"
+    },
+    {
+      "id": 4,
+      "title": "Project Management",
+      "body": "No matter if you are rolling out a new service or product or you would like to revamp your existing practices and processes for ultimate efficiency, we have you covered. Talarai Consulting’s certified, expert Project Management Professionals offer the most innovative and cost-efficient solutions to fit your needs. Providing you a birds-eye view to every step in the process.  We will have your business scaling to new heights in no time.",
+      "imageUrl": "https://talarai.com/gallery_gen/1bcafbc02d0e2879afe994207b209d8a_1280x735.31914893617.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Solutions",
+      "body": "It all starts with data and ends with data. We align technology with your business. We build tangible solutions to solve your everyday problems. Our proven process produces measurable results. If driving business value with Artificial Intelligence is in your plan, we can help you unmask their potential and perfect the basics. Smart Technology is powerless without clean data. We can guide you through your digital transformation process and key your propellers moving while doing so.",
+      "imageUrl": "https://talarai.com/gallery_gen/33ab23d689e0b8360151e097a4025c59_1880x1080.jpg"
+    }
+  ]
+}

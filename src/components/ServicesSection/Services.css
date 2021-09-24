@@ -1,0 +1,74 @@
+h5 {
+  font-size: 50px;
+  text-align: center;
+}
+
+h3 {
+  font-size: 28px;
+  text-align: center;
+}
+
+.font-color {
+  color: #1b1442;
+}
+
+.service-container {
+  margin: 35px 0;
+  scroll-margin-top: 95px;
+}
+
+.para-container {
+  margin-top: -20px;
+  margin-bottom: 35px;
+  display: flex;
+  justify-content: center;
+}
+
+.service-para {
+  line-height: 1.7;
+  width: 75%;
+  text-align: center;
+}
+
+.service-card-container {
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-left: 100;
+}
+
+.service-card-row {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.card-container {
+  width: 420px;
+  height: 522px;
+  overflow: hidden;
+  border: 1px solid #d3d3d3;
+  border-radius: 5%;
+}
+
+.image-container img {
+  overflow: hidden;
+  height: 245px;
+  border-bottom: 1px solid #000;
+}
+
+.card-content {
+  margin: 1rem;
+  margin-top: 0.3rem;
+}
+
+.card-title h3 {
+  text-align: center;
+  margin-bottom: 5px;
+  font-size: x-large;
+}
+
+.card-body p {
+  text-align: center;
+  font-size: 14px;
+  line-height: 1.5;
+  word-spacing: 4px;
+}

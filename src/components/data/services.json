@@ -1,0 +1,41 @@
+{
+  "description": "The core strength of Talari, LLC lies in its ability to provide teams of highly educated and experienced local, national personnel with expertise across a multitude of disciplines and the equipment needed to put it all together. Our services include Logistics, Transportation, Procurement, Applications Services, Audits & Risk Assessment, Automation, Business Continuity, Cloud, Premise, and Hybrid Support Services, Consulting and Projects, Continuous Diagnostics and Mitigation (CDM) Tools, Cybersecurity, Data Backup, Email Management & Migration, Help Desk, Hardware, IT Relocation Services, Relocation Services, Managed IT Services, Mobility Services, Outsourced, and Supplemental IT Support, Server Virtualization & Consolidation, Strategic Planning, Software Design, Remote, and Onsite Support and Unified Communications and VoIP.",
+  "services": [
+    {
+      "id": 1,
+      "title": "Specializations",
+      "body": "Located in central Texas, Talarai offers a full line of customized solutions for government agencies in the information technology and management field, including AI, IT Consulting, Web Design and Development, Project Management Services, Software, and App Development Solutions Management, and more. We are continuously evolving to meet our Federal, State, and Local client’s needs and ensure our solutions remain current with the latest trends in the technology industry.",
+      "imageUrl": "https://blog-www.pods.com/wp-content/uploads/2020/12/resized_FI_Getty1201329053_Austin-TX-skyline.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Network Setup",
+      "body": "We can set up and maintain your business's network or help troubleshoot and maintain your existing system and provide professional services in all areas, from hardware to information technology software.",
+      "imageUrl": "https://images.unsplash.com/photo-1573164713988-8665fc963095?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1100&q=80"
+    },
+    {
+      "id": 3,
+      "title": "Consultation",
+      "body": "Our IT company is available to consult with you or your staff when problems arise with your information technology software. These professional services can be either remote or on-site assistance.",
+      "imageUrl": "https://images.unsplash.com/photo-1553877522-43269d4ea984?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1100&q=80"
+    },
+    {
+      "id": 4,
+      "title": "Cloud Services",
+      "body": "Our professional services team will work with you to establish the appropriate cloud size and available resources for your business. We are a one-stop-shop IT company that offers custom information technology software.",
+      "imageUrl": "https://images.unsplash.com/photo-1600267147646-33cf514b5f3e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1100&q=80"
+    },
+    {
+      "id": 5,
+      "title": "Maintenance",
+      "body": "Many companies find that constant maintenance eats into their budget for new technology. By outsourcing your IT management to us, you can focus on what you do best--running your business.",
+      "imageUrl": "https://talarai.com/gallery_gen/c11c00edf5bc935bb75524f0957781b3_1280x735.31914893617_27.234042553191x-0_1525.1063829787x1034.8936170213.jpg"
+    },
+    {
+      "id": 6,
+      "title": "National & Global Communications",
+      "body": "Our staff has experience working in the following countries: South Africa, U.S., Oman, Qatar, Saudi Arabia, Egypt, Turkey, UAE, Iraq, Afghanistan, Curacao, Aruba, Ecuador, Uruguay, Argentina, United Kingdom, Germany, Netherlands, and more. Above is a sample of some of the Agencies, Clients, and Companies that our personnel has worked with.",
+      "imageUrl": "https://talarai.com/gallery_gen/63ea0f976cc633d3afc2ea4a896743e4_722x344.95555555556.png"
+    }
+  ]
+}
