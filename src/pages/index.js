@@ -20,10 +20,10 @@ const Home = () => {
       <Sidebar isOpen={isOpen} toggle={toggle} />
       <Navbar toggle={toggle} />
       <HeroSection />
-      <ServicesSection />
-      <FunctionalitySection />
-      <AboutUsSection />
-      <ContactSection />
+      <ServicesSection id="services" />
+      <FunctionalitySection id="functionality" />
+      <AboutUsSection id="aboutUs" />
+      <ContactSection id="contactUs" />
       <Footer />
     </div>
   );

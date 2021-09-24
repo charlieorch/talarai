@@ -32,7 +32,7 @@
 .additional-contacts {
   margin: 15px auto;
   height: 100px;
-  width: 40%;
+  max-width: 200px;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;

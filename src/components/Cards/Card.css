@@ -5,6 +5,7 @@
   border-radius: 5%;
   background: #fff;
   margin: 20px 0px;
+  min-height: 300px;
 }
 
 .image-container img {

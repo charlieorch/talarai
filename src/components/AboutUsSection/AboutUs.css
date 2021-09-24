@@ -42,8 +42,10 @@ span {
 }
 
 .about-us--row {
+  min-height: 200px;
   margin-top: 20px;
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-evenly;
 }
 
@@ -53,5 +55,6 @@ span {
 
 .team-row {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-evenly;
 }
